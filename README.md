@@ -1,8 +1,8 @@
-# Server-Side APIs Challenge 6: Weather Dashboar
+#Challenge 6: Weather Dashboard
 
 Name of Application: WeatherToday
 
-My Task: As a traveler, I need to develope an application to see the
+My Task: As a busy traveler, I need to develope an application to see the
 weather for multiple cities to that proper arrangement can be made.
 
 
@@ -24,4 +24,7 @@ Application Requirement:
 By Arbi Nazari
 
 Github Url: https://github.com/ArbiNazari/WeatherToday
+
 Live Url:
+
+
