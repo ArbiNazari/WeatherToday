@@ -1,4 +1,4 @@
-#Challenge 6: Weather Dashboard
+# Challenge 6: Weather Dashboard
 
 Name of Application: WeatherToday
 
