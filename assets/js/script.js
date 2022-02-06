@@ -5,7 +5,7 @@ var cityInputEl = document.querySelector("#city");
 var cityFormEl = document.querySelector("#city-search");
 var citySearchInputEl = document.querySelector("#searched-city");
 var weatherContainerEl = document.querySelector("#current-weather");
-var forecastTitle = document.querySelector("#todayForecast");
+var forecastTitle = document.querySelector("#todayforecast");
 var forecastContainerEl = document.querySelector("#fiveday-container");
 var pastSearchButtonEl = document.querySelector("#past-searches");
 
