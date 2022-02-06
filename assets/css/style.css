@@ -1,0 +1,114 @@
+
+#city-search {
+  width:95%;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 12px;
+    line-height: 1;
+  }
+  
+
+  .jumbotron {
+    text-align: center;
+    background-color: transparent;
+    color: black;
+    border-radius: 0;
+    border-bottom: 10px solid rgb(70, 139, 230);
+    padding: 10px 15px;
+    font-weight:bold;
+    font-size: 1.85vw;
+    background: #0f4272;
+    color: #fffb05;
+    border-radius: 10px;
+
+  }
+  .jumbotronfooter {
+    text-align: center;
+    background-color: transparent;
+    color: black;
+    border-radius: 0;
+    padding: 5px 10px;
+    font-size: 1.00vw;
+    text-shadow: 0 0 10px rgba(133, 22, 22, 0.5);
+    background: #0f4272;
+    color: #d3d031;
+
+  }
+  
+.indexgood{
+  background-color: green;
+  border-radius: 5px;
+  color: white;
+}
+
+.indexmod {
+  background-color: orange;
+  border-radius: 5px;
+  color: white;
+}
+
+.indexbad {
+  background-color: red;
+  border-radius: 5px;
+  color: white;
+}
+#current-weather {
+  padding-left: 15px;
+}
+
+.list-group-item{
+  line-height: 0.5;
+  border: none;
+}
+.card-body{
+  flex:auto
+}
+
+.search-column{
+  background-color:	#dadada;
+}
+
+.list-group-item{
+  line-height: 0.5;
+  border: none;
+}
+.card-body{
+  flex:auto
+}
+
+span.severe{
+  padding: 3px;
+  background-color: rgb(119, 0, 0);
+  color:white;
+}
+
+span.moderate{
+  padding: 3px;
+  background-color: rgb(0, 110, 255);
+}
+
+span.favorable{
+  padding: 3px;
+  background-color: rgb(24, 109, 24);
+  color:rgb(167, 21, 21);
+}
+
+
+  @media (max-width: 690px) {
+    .btn {
+      font-size: 1rem;
+      margin: 16px 0px 0px 0px;
+      padding: 10px 15px;
+    }
+    
+  }
+  
+  @media (max-width: 500px) {
+    .btn {
+      font-size: 0.8rem;
+    }
+  }
+
+  

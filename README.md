@@ -1,6 +1,6 @@
 # Challenge 6: Weather Dashboard
 
-Name of Application: WeatherToday
+Name of Application: WeatherDaily
 
 My Task: As a busy traveler, I need to develope an application to see the
 weather for multiple cities to that proper arrangement can be made.
