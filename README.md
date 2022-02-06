@@ -25,6 +25,6 @@ By Arbi Nazari
 
 Github Url: https://github.com/ArbiNazari/WeatherToday
 
-Live Url:
+Live Url: https://arbinazari.github.io/WeatherToday/index.html
 
-
+![mockup](https://user-images.githubusercontent.com/95839411/152700657-c5b36db0-70c5-480d-b404-089d17fd57e8.jpg)
