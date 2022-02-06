@@ -2,11 +2,11 @@
 
 Name of Application: WeatherDaily
 
-My Task: As a busy traveler, I need to develope an application to see the
+# My Task: As a busy traveler, I need to develope an application to see the
 weather for multiple cities to that proper arrangement can be made.
 
 
-Application Requirement:
+# Application Requirement:
 
  - Application must have a functional dashboard with functioning inputs
  - User must be presented with current and future conditions for that city
